@@ -236,7 +236,7 @@
   {
     "name": "🆃🅾🅿🅼🅾🅳🆂 苹果助手",
     "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/Helper.sgmodule",
-    "description": "苹果服务器切换模块，编辑参数以修改",
+    "description": "苹果下载/更新服务器切换模块，编辑参数以修改",
     "author": {
       "name": "LOWERTOP",
       "url": "https://github.com/LOWERTOP",
@@ -249,7 +249,7 @@
     "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FLOWERTOP%2FShadowrocket-First%2Fmain%2FHelper.sgmodule",
     "isDubious": false,
     "fromMyRepo": true,
-    "_searchKeywords": "🆃🅾🅿🅼🅾🅳🆂 苹果助手 苹果服务器切换模块，编辑参数以修改 lowertop shadowrocket-first"
+    "_searchKeywords": "🆃🅾🅿🅼🅾🅳🆂 苹果助手 苹果下载/更新服务器切换模块，编辑参数以修改 lowertop shadowrocket-first"
   },
   {
     "name": "🆃🅾🅿🅼🅾🅳🆂 GitHub 禁止缩放",
