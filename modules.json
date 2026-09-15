@@ -74,7 +74,7 @@
   {
     "name": "🆃🅾🅿🅼🅾🅳🆂 Talkatone",
     "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/Talkatone.sgmodule",
-    "description": "Talkatone 日常使用模块，可进入参数编辑详细设置",
+    "description": "Talkatone 日常使用模块，需进入参数编辑详细设置",
     "author": {
       "name": "LOWERTOP",
       "url": "https://github.com/LOWERTOP",
@@ -87,7 +87,7 @@
     "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FLOWERTOP%2FShadowrocket-First%2Fmain%2FTalkatone.sgmodule",
     "isDubious": false,
     "fromMyRepo": true,
-    "_searchKeywords": "🆃🅾🅿🅼🅾🅳🆂 talkatone talkatone 日常使用模块，可进入参数编辑详细设置 lowertop shadowrocket-first"
+    "_searchKeywords": "🆃🅾🅿🅼🅾🅳🆂 talkatone talkatone 日常使用模块，需进入参数编辑详细设置 lowertop shadowrocket-first"
   },
   {
     "name": "🅷🅾🅽🅶🅶🆄🅾 红果短剧",
