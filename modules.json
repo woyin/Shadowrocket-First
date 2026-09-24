@@ -128,7 +128,7 @@
   {
     "name": "🆁🅴🆂🅸🅽🅿🆁 米家3D打印增强",
     "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/Mi3D-Enhance.sgmodule",
-    "description": "支持隐藏底栏按钮、净化个人主页装扮",
+    "description": "支持自定义隐藏底栏各个按钮、净化个人主页徽章装扮",
     "author": {
       "name": "LOWERTOP",
       "url": "https://github.com/LOWERTOP",
@@ -141,7 +141,7 @@
     "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FLOWERTOP%2FShadowrocket-First%2Fmain%2FMi3D-Enhance.sgmodule",
     "isDubious": false,
     "fromMyRepo": true,
-    "_searchKeywords": "🆁🅴🆂🅸🅽🅿🆁 米家3d打印增强 支持隐藏底栏按钮、净化个人主页装扮 lowertop shadowrocket-first"
+    "_searchKeywords": "🆁🅴🆂🅸🅽🅿🆁 米家3d打印增强 支持自定义隐藏底栏各个按钮、净化个人主页徽章装扮 lowertop shadowrocket-first"
   },
   {
     "name": "🅲🅰🅳🆅🅸🅴🆆 浩辰CAD看图王",
