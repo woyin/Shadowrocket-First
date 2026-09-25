@@ -110,7 +110,7 @@
   {
     "name": "🅲🅻🅴🅰🅽🅴🆁",
     "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/Cleaner.module",
-    "description": "红果短剧、包子漫画网页、小蚁摄像机、Pinterest 等去广告。模块仅为自用，不承诺完全去除相应服务的广告",
+    "description": "红果短剧、包子漫画网页、小蚁摄像机、德施曼、Pinterest 等去广告。模块仅为自用，不承诺完全去除相应服务的广告",
     "author": {
       "name": "LOWERTOP",
       "url": "https://github.com/LOWERTOP",
@@ -123,7 +123,7 @@
     "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FLOWERTOP%2FShadowrocket-First%2Fmain%2FCleaner.module",
     "isDubious": false,
     "fromMyRepo": true,
-    "_searchKeywords": "🅲🅻🅴🅰🅽🅴🆁 红果短剧、包子漫画网页、小蚁摄像机、pinterest 等去广告。模块仅为自用，不承诺完全去除相应服务的广告 lowertop shadowrocket-first"
+    "_searchKeywords": "🅲🅻🅴🅰🅽🅴🆁 红果短剧、包子漫画网页、小蚁摄像机、德施曼、pinterest 等去广告。模块仅为自用，不承诺完全去除相应服务的广告 lowertop shadowrocket-first"
   },
   {
     "name": "🆁🅴🆂🅸🅽🅿🆁 米家3D打印增强",
@@ -160,6 +160,24 @@
     "isDubious": false,
     "fromMyRepo": true,
     "_searchKeywords": "🅲🅰🅳🆅🅸🅴🆆 浩辰cad看图王 自用测试模块，仅包含规则不包含重写，若有误杀概不负责 lowertop shadowrocket-first"
+  },
+  {
+    "name": "🆁🆄🅸🆇🅸🅽🅶 瑞幸咖啡",
+    "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/LuckinCoffee.sgmodule",
+    "description": "屏蔽瑞幸咖啡开屏广告及部分其他广告。本模块仅为自用，不保证可以将广告或弹窗全部清理",
+    "author": {
+      "name": "LOWERTOP",
+      "url": "https://github.com/LOWERTOP",
+      "username": "LOWERTOP"
+    },
+    "authorAvatar": "https://github.com/LOWERTOP.png?size=64",
+    "icon": "https://raw.githubusercontent.com/zirawell/R-Store/main/Res/Icon/App/lkcoffee.png",
+    "sourceName": "Shadowrocket-First",
+    "sourceURL": "https://github.com/LOWERTOP/Shadowrocket-First",
+    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FLOWERTOP%2FShadowrocket-First%2Fmain%2FLuckinCoffee.sgmodule",
+    "isDubious": false,
+    "fromMyRepo": true,
+    "_searchKeywords": "🆁🆄🅸🆇🅸🅽🅶 瑞幸咖啡 屏蔽瑞幸咖啡开屏广告及部分其他广告。本模块仅为自用，不保证可以将广告或弹窗全部清理 lowertop shadowrocket-first"
   },
   {
     "name": "🅲🅼🅲🅲🅸🆃🆅 移动直播解析",
@@ -289,7 +307,7 @@
   },
   {
     "name": "Skip Proxy And Real-IP Lists",
-    "rawURL": "https://raw.githubusercontent.com/mieqq/mieqq/refs/heads/master/skip-proxy-lists.sgmodule",
+    "rawURL": "https://raw.githubusercontent.com/mieqq/mieqq/master/skip-proxy-lists.sgmodule",
     "description": "跳过部分应用的代理检测",
     "author": {
       "name": "mieqq",
@@ -300,7 +318,7 @@
     "icon": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Proxy.png",
     "sourceName": "mieqq",
     "sourceURL": "https://github.com/mieqq/mieqq",
-    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2Fmieqq%2Fmieqq%2Frefs%2Fheads%2Fmaster%2Fskip-proxy-lists.sgmodule",
+    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2Fmieqq%2Fmieqq%2Fmaster%2Fskip-proxy-lists.sgmodule",
     "isDubious": false,
     "fromMyRepo": true,
     "_searchKeywords": "skip proxy and real-ip lists 跳过部分应用的代理检测 mieqq mieqq"
@@ -469,7 +487,7 @@
   },
   {
     "name": "X(Twitter)网页版去广告",
-    "rawURL": "https://raw.githubusercontent.com/fmz200/wool_scripts/refs/heads/main/Surge/module/XWebAds.module",
+    "rawURL": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Surge/module/XWebAds.module",
     "description": "移除网页版 X (Twitter) 广告。",
     "author": {
       "name": "fmz200",
@@ -480,14 +498,14 @@
     "icon": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/X.png",
     "sourceName": "wool_scripts",
     "sourceURL": "https://github.com/fmz200/wool_scripts",
-    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2Ffmz200%2Fwool_scripts%2Frefs%2Fheads%2Fmain%2FSurge%2Fmodule%2FXWebAds.module",
+    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2Ffmz200%2Fwool_scripts%2Fmain%2FSurge%2Fmodule%2FXWebAds.module",
     "isDubious": false,
     "fromMyRepo": true,
     "_searchKeywords": "x(twitter)网页版去广告 移除网页版 x (twitter) 广告。 fmz200 wool_scripts"
   },
   {
     "name": "哔哩哔哩增强",
-    "rawURL": "https://raw.githubusercontent.com/kokoryh/Sparkle/refs/heads/master/release/surge/module/bilibili.sgmodule",
+    "rawURL": "https://raw.githubusercontent.com/kokoryh/Sparkle/master/release/surge/module/bilibili.sgmodule",
     "description": "拜托，没有广告的哔哩哔哩真的超酷的",
     "author": {
       "name": "kokoryh",
@@ -498,7 +516,7 @@
     "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/哔哩哔哩.png",
     "sourceName": "Sparkle",
     "sourceURL": "https://github.com/kokoryh/Sparkle",
-    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2Fkokoryh%2FSparkle%2Frefs%2Fheads%2Fmaster%2Frelease%2Fsurge%2Fmodule%2Fbilibili.sgmodule",
+    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2Fkokoryh%2FSparkle%2Fmaster%2Frelease%2Fsurge%2Fmodule%2Fbilibili.sgmodule",
     "isDubious": false,
     "fromMyRepo": true,
     "_searchKeywords": "哔哩哔哩增强 拜托，没有广告的哔哩哔哩真的超酷的 kokoryh sparkle"
@@ -703,7 +721,7 @@
   },
   {
     "name": "Spotify Premium",
-    "rawURL": "https://raw.githubusercontent.com/Reukix/ukix/refs/heads/main/Script/Spotify.sgmodule",
+    "rawURL": "https://raw.githubusercontent.com/Reukix/ukix/main/Script/Spotify.sgmodule",
     "description": "Spotify Premium",
     "author": {
       "name": "Reukix",
@@ -714,7 +732,7 @@
     "icon": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Spotify_01.png",
     "sourceName": "ukix",
     "sourceURL": "https://github.com/Reukix/ukix",
-    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FReukix%2Fukix%2Frefs%2Fheads%2Fmain%2FScript%2FSpotify.sgmodule",
+    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FReukix%2Fukix%2Fmain%2FScript%2FSpotify.sgmodule",
     "isDubious": false,
     "fromMyRepo": true,
     "_searchKeywords": "spotify premium spotify premium reukix ukix"
@@ -739,7 +757,7 @@
   },
   {
     "name": "高德地图",
-    "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/refs/heads/main/PR/XiangwanGuan/%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BE.sgmodule",
+    "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/PR/XiangwanGuan/%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BE.sgmodule",
     "description": "2026-08-25 18:07:32",
     "author": {
       "name": "LOWERTOP",
@@ -750,14 +768,14 @@
     "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/高德地图.png",
     "sourceName": "Shadowrocket-First",
     "sourceURL": "https://github.com/LOWERTOP/Shadowrocket-First",
-    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FLOWERTOP%2FShadowrocket-First%2Frefs%2Fheads%2Fmain%2FPR%2FXiangwanGuan%2F%25E9%25AB%2598%25E5%25BE%25B7%25E5%259C%25B0%25E5%259B%25BE.sgmodule",
+    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FLOWERTOP%2FShadowrocket-First%2Fmain%2FPR%2FXiangwanGuan%2F%25E9%25AB%2598%25E5%25BE%25B7%25E5%259C%25B0%25E5%259B%25BE.sgmodule",
     "isDubious": false,
     "fromMyRepo": true,
     "_searchKeywords": "高德地图 2026-08-25 18:07:32 lowertop shadowrocket-first"
   },
   {
     "name": "一汽大众",
-    "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/refs/heads/main/PR/XiangwanGuan/%E4%B8%80%E6%B1%BD%E5%A4%A7%E4%BC%97.sgmodule",
+    "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/PR/XiangwanGuan/%E4%B8%80%E6%B1%BD%E5%A4%A7%E4%BC%97.sgmodule",
     "description": "2026-07-18 11:35:27",
     "author": {
       "name": "LOWERTOP",
@@ -768,14 +786,14 @@
     "icon": "",
     "sourceName": "Shadowrocket-First",
     "sourceURL": "https://github.com/LOWERTOP/Shadowrocket-First",
-    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FLOWERTOP%2FShadowrocket-First%2Frefs%2Fheads%2Fmain%2FPR%2FXiangwanGuan%2F%25E4%25B8%2580%25E6%25B1%25BD%25E5%25A4%25A7%25E4%25BC%2597.sgmodule",
+    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FLOWERTOP%2FShadowrocket-First%2Fmain%2FPR%2FXiangwanGuan%2F%25E4%25B8%2580%25E6%25B1%25BD%25E5%25A4%25A7%25E4%25BC%2597.sgmodule",
     "isDubious": false,
     "fromMyRepo": true,
     "_searchKeywords": "一汽大众 2026-07-18 11:35:27 lowertop shadowrocket-first"
   },
   {
     "name": "彩云天气",
-    "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/refs/heads/main/PR/XiangwanGuan/%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94.sgmodule",
+    "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/PR/XiangwanGuan/%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94.sgmodule",
     "description": "2026-02-06 09:00:03",
     "author": {
       "name": "LOWERTOP",
@@ -786,7 +804,7 @@
     "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/彩云天气.png",
     "sourceName": "Shadowrocket-First",
     "sourceURL": "https://github.com/LOWERTOP/Shadowrocket-First",
-    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FLOWERTOP%2FShadowrocket-First%2Frefs%2Fheads%2Fmain%2FPR%2FXiangwanGuan%2F%25E5%25BD%25A9%25E4%25BA%2591%25E5%25A4%25A9%25E6%25B0%2594.sgmodule",
+    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FLOWERTOP%2FShadowrocket-First%2Fmain%2FPR%2FXiangwanGuan%2F%25E5%25BD%25A9%25E4%25BA%2591%25E5%25A4%25A9%25E6%25B0%2594.sgmodule",
     "isDubious": false,
     "fromMyRepo": true,
     "_searchKeywords": "彩云天气 2026-02-06 09:00:03 lowertop shadowrocket-first"
