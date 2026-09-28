@@ -432,24 +432,6 @@
     "_searchKeywords": "🅳🅴🆅🆃🅾🅾🅻 配置调试工具，以编辑参数的方式测试隐式参数及各项规则。新手用户不建议使用 lowertop shadowrocket-first"
   },
   {
-    "name": "Plugin2Rocket",
-    "rawURL": "https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/Plugin2Rocket.srmodule",
-    "description": "将可莉插件中心转换给小火箭使用; 插件中心 https://hub.kelee.one ; 此版集成Script-Hub，若有侵权可联系我们立马删除",
-    "author": {
-      "name": "iab0x00",
-      "url": "https://github.com/iab0x00",
-      "username": "iab0x00"
-    },
-    "authorAvatar": "https://github.com/iab0x00.png?size=64",
-    "icon": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/rocket.png",
-    "sourceName": "ProxyRules",
-    "sourceURL": "https://github.com/iab0x00/ProxyRules",
-    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2Fiab0x00%2FProxyRules%2Fmain%2FRewrite%2FPlugin2Rocket.srmodule",
-    "isDubious": false,
-    "fromMyRepo": true,
-    "_searchKeywords": "plugin2rocket 将可莉插件中心转换给小火箭使用; 插件中心 https://hub.kelee.one ; 此版集成script-hub，若有侵权可联系我们立马删除 iab0x00 proxyrules"
-  },
-  {
     "name": "YouTubeNoAds",
     "rawURL": "https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/YouTubeNoAd.sgmodule",
     "description": "YouTube Enhance & AdsBlock",
@@ -810,6 +792,24 @@
     "_searchKeywords": "彩云天气 2026-02-06 09:00:03 lowertop shadowrocket-first"
   },
   {
+    "name": "Plugin2Rocket",
+    "rawURL": "https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/Plugin2Rocket.srmodule",
+    "description": "将可莉插件中心转换给小火箭使用; 插件中心 https://hub.kelee.one ; 此版集成Script-Hub，若有侵权可联系我们立马删除",
+    "author": {
+      "name": "iab0x00",
+      "url": "https://github.com/iab0x00",
+      "username": "iab0x00"
+    },
+    "authorAvatar": "https://github.com/iab0x00.png?size=64",
+    "icon": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/rocket.png",
+    "sourceName": "ProxyRules",
+    "sourceURL": "https://github.com/iab0x00/ProxyRules",
+    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2Fiab0x00%2FProxyRules%2Fmain%2FRewrite%2FPlugin2Rocket.srmodule",
+    "isDubious": false,
+    "fromMyRepo": true,
+    "_searchKeywords": "plugin2rocket 将可莉插件中心转换给小火箭使用; 插件中心 https://hub.kelee.one ; 此版集成script-hub，若有侵权可联系我们立马删除 iab0x00 proxyrules"
+  },
+  {
     "name": "ScriptHub.Rocket",
     "rawURL": "https://ddgksf2013.top/module/ScriptHub.Rocket.sgmodule",
     "description": "ScriptHub.Rocket 模块信息获取失败，请自行判断该模块的作用和有效性。",
@@ -823,7 +823,7 @@
     "sourceName": "ddgksf2013.top",
     "sourceURL": "https://ddgksf2013.top",
     "installURL": "shadowrocket://install?module=https%3A%2F%2Fddgksf2013.top%2Fmodule%2FScriptHub.Rocket.sgmodule",
-    "isDubious": true,
+    "isDubious": false,
     "fromMyRepo": true,
     "_searchKeywords": "scripthub.rocket scripthub.rocket 模块信息获取失败，请自行判断该模块的作用和有效性。 ddgksf2013 ddgksf2013.top"
   },
