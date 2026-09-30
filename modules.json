@@ -776,7 +776,7 @@
   {
     "name": "彩云天气",
     "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/PR/XiangwanGuan/%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94.sgmodule",
-    "description": "2026-02-06 09:00:03",
+    "description": "2026-09-30 09:28:50",
     "author": {
       "name": "LOWERTOP",
       "url": "https://github.com/LOWERTOP",
@@ -789,7 +789,7 @@
     "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FLOWERTOP%2FShadowrocket-First%2Fmain%2FPR%2FXiangwanGuan%2F%25E5%25BD%25A9%25E4%25BA%2591%25E5%25A4%25A9%25E6%25B0%2594.sgmodule",
     "isDubious": false,
     "fromMyRepo": true,
-    "_searchKeywords": "彩云天气 2026-02-06 09:00:03 lowertop shadowrocket-first"
+    "_searchKeywords": "彩云天气 2026-09-30 09:28:50 lowertop shadowrocket-first"
   },
   {
     "name": "Plugin2Rocket",
