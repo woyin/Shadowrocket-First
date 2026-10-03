@@ -792,6 +792,24 @@
     "_searchKeywords": "彩云天气 2026-09-30 09:28:50 lowertop shadowrocket-first"
   },
   {
+    "name": "小红书",
+    "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/PR/XiangwanGuan/%E5%B0%8F%E7%BA%A2%E4%B9%A6.sgmodule",
+    "description": "2026-10-03 15:27:09",
+    "author": {
+      "name": "LOWERTOP",
+      "url": "https://github.com/LOWERTOP",
+      "username": "LOWERTOP"
+    },
+    "authorAvatar": "https://github.com/LOWERTOP.png?size=64",
+    "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/小红书.png",
+    "sourceName": "Shadowrocket-First",
+    "sourceURL": "https://github.com/LOWERTOP/Shadowrocket-First",
+    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FLOWERTOP%2FShadowrocket-First%2Fmain%2FPR%2FXiangwanGuan%2F%25E5%25B0%258F%25E7%25BA%25A2%25E4%25B9%25A6.sgmodule",
+    "isDubious": false,
+    "fromMyRepo": true,
+    "_searchKeywords": "小红书 2026-10-03 15:27:09 lowertop shadowrocket-first"
+  },
+  {
     "name": "Plugin2Rocket",
     "rawURL": "https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/Plugin2Rocket.srmodule",
     "description": "将可莉插件中心转换给小火箭使用; 插件中心 https://hub.kelee.one ; 此版集成Script-Hub，若有侵权可联系我们立马删除",
