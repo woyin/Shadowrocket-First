@@ -794,7 +794,7 @@
   {
     "name": "小红书",
     "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/PR/XiangwanGuan/%E5%B0%8F%E7%BA%A2%E4%B9%A6.sgmodule",
-    "description": "2026-10-03 15:27:09",
+    "description": "2026-10-04 20:23:03",
     "author": {
       "name": "LOWERTOP",
       "url": "https://github.com/LOWERTOP",
@@ -807,7 +807,7 @@
     "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FLOWERTOP%2FShadowrocket-First%2Fmain%2FPR%2FXiangwanGuan%2F%25E5%25B0%258F%25E7%25BA%25A2%25E4%25B9%25A6.sgmodule",
     "isDubious": false,
     "fromMyRepo": true,
-    "_searchKeywords": "小红书 2026-10-03 15:27:09 lowertop shadowrocket-first"
+    "_searchKeywords": "小红书 2026-10-04 20:23:03 lowertop shadowrocket-first"
   },
   {
     "name": "Plugin2Rocket",
@@ -841,7 +841,7 @@
     "sourceName": "ddgksf2013.top",
     "sourceURL": "https://ddgksf2013.top",
     "installURL": "shadowrocket://install?module=https%3A%2F%2Fddgksf2013.top%2Fmodule%2FScriptHub.Rocket.sgmodule",
-    "isDubious": false,
+    "isDubious": true,
     "fromMyRepo": true,
     "_searchKeywords": "scripthub.rocket scripthub.rocket 模块信息获取失败，请自行判断该模块的作用和有效性。 ddgksf2013 ddgksf2013.top"
   },
