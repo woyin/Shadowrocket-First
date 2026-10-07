@@ -162,24 +162,6 @@
     "_searchKeywords": "🅲🅰🅳🆅🅸🅴🆆 浩辰cad看图王 自用测试模块，仅包含规则不包含重写，若有误杀概不负责 lowertop shadowrocket-first"
   },
   {
-    "name": "🆁🆄🅸🆇🅸🅽🅶 瑞幸咖啡",
-    "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/LuckinCoffee.sgmodule",
-    "description": "屏蔽瑞幸咖啡开屏广告及部分其他广告。本模块仅为自用，不保证可以将广告或弹窗全部清理",
-    "author": {
-      "name": "LOWERTOP",
-      "url": "https://github.com/LOWERTOP",
-      "username": "LOWERTOP"
-    },
-    "authorAvatar": "https://github.com/LOWERTOP.png?size=64",
-    "icon": "https://raw.githubusercontent.com/zirawell/R-Store/main/Res/Icon/App/lkcoffee.png",
-    "sourceName": "Shadowrocket-First",
-    "sourceURL": "https://github.com/LOWERTOP/Shadowrocket-First",
-    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FLOWERTOP%2FShadowrocket-First%2Fmain%2FLuckinCoffee.sgmodule",
-    "isDubious": false,
-    "fromMyRepo": true,
-    "_searchKeywords": "🆁🆄🅸🆇🅸🅽🅶 瑞幸咖啡 屏蔽瑞幸咖啡开屏广告及部分其他广告。本模块仅为自用，不保证可以将广告或弹窗全部清理 lowertop shadowrocket-first"
-  },
-  {
     "name": "🅲🅼🅲🅲🅸🆃🆅 移动直播解析",
     "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/CMCCiTV.sgmodule",
     "description": "有参数编辑功能。中国移动iTV平台中的部分域名在非移动网络下会被解析到CF的DNS服务IP上，导致无法访问，本模块根据PIXMAN大佬Coding自制DNS的解决方案所制作，应该可以解决这个问题",
@@ -196,24 +178,6 @@
     "isDubious": false,
     "fromMyRepo": true,
     "_searchKeywords": "🅲🅼🅲🅲🅸🆃🆅 移动直播解析 有参数编辑功能。中国移动itv平台中的部分域名在非移动网络下会被解析到cf的dns服务ip上，导致无法访问，本模块根据pixman大佬coding自制dns的解决方案所制作，应该可以解决这个问题 lowertop shadowrocket-first"
-  },
-  {
-    "name": "🅴🅼🅱🆈🅺🅸🆃 Emby模块",
-    "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/EmbyProxy.module",
-    "description": "编辑参数以设置分流策略",
-    "author": {
-      "name": "LOWERTOP",
-      "url": "https://github.com/LOWERTOP",
-      "username": "LOWERTOP"
-    },
-    "authorAvatar": "https://github.com/LOWERTOP.png?size=64",
-    "icon": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Emby.png",
-    "sourceName": "Shadowrocket-First",
-    "sourceURL": "https://github.com/LOWERTOP/Shadowrocket-First",
-    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FLOWERTOP%2FShadowrocket-First%2Fmain%2FEmbyProxy.module",
-    "isDubious": false,
-    "fromMyRepo": true,
-    "_searchKeywords": "🅴🅼🅱🆈🅺🅸🆃 emby模块 编辑参数以设置分流策略 lowertop shadowrocket-first"
   },
   {
     "name": "🆆🅸🅵🅸🆅🅾🅲 HK Call",
