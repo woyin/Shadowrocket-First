@@ -841,7 +841,7 @@
     "sourceName": "ddgksf2013.top",
     "sourceURL": "https://ddgksf2013.top",
     "installURL": "shadowrocket://install?module=https%3A%2F%2Fddgksf2013.top%2Fmodule%2FScriptHub.Rocket.sgmodule",
-    "isDubious": true,
+    "isDubious": false,
     "fromMyRepo": true,
     "_searchKeywords": "scripthub.rocket scripthub.rocket 模块信息获取失败，请自行判断该模块的作用和有效性。 ddgksf2013 ddgksf2013.top"
   },
