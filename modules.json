@@ -704,7 +704,7 @@
   {
     "name": "高德地图",
     "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/PR/XiangwanGuan/%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BE.sgmodule",
-    "description": "2026-08-25 18:07:32",
+    "description": "2026-10-07 12:43:04",
     "author": {
       "name": "LOWERTOP",
       "url": "https://github.com/LOWERTOP",
@@ -717,7 +717,7 @@
     "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FLOWERTOP%2FShadowrocket-First%2Fmain%2FPR%2FXiangwanGuan%2F%25E9%25AB%2598%25E5%25BE%25B7%25E5%259C%25B0%25E5%259B%25BE.sgmodule",
     "isDubious": false,
     "fromMyRepo": true,
-    "_searchKeywords": "高德地图 2026-08-25 18:07:32 lowertop shadowrocket-first"
+    "_searchKeywords": "高德地图 2026-10-07 12:43:04 lowertop shadowrocket-first"
   },
   {
     "name": "一汽大众",
@@ -758,7 +758,7 @@
   {
     "name": "小红书",
     "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/PR/XiangwanGuan/%E5%B0%8F%E7%BA%A2%E4%B9%A6.sgmodule",
-    "description": "2026-10-04 20:23:03",
+    "description": "2026-10-08 16:38:39",
     "author": {
       "name": "LOWERTOP",
       "url": "https://github.com/LOWERTOP",
@@ -771,25 +771,7 @@
     "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FLOWERTOP%2FShadowrocket-First%2Fmain%2FPR%2FXiangwanGuan%2F%25E5%25B0%258F%25E7%25BA%25A2%25E4%25B9%25A6.sgmodule",
     "isDubious": false,
     "fromMyRepo": true,
-    "_searchKeywords": "小红书 2026-10-04 20:23:03 lowertop shadowrocket-first"
-  },
-  {
-    "name": "Plugin2Rocket",
-    "rawURL": "https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/Plugin2Rocket.srmodule",
-    "description": "将可莉插件中心转换给小火箭使用; 插件中心 https://hub.kelee.one ; 此版集成Script-Hub，若有侵权可联系我们立马删除",
-    "author": {
-      "name": "iab0x00",
-      "url": "https://github.com/iab0x00",
-      "username": "iab0x00"
-    },
-    "authorAvatar": "https://github.com/iab0x00.png?size=64",
-    "icon": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/rocket.png",
-    "sourceName": "ProxyRules",
-    "sourceURL": "https://github.com/iab0x00/ProxyRules",
-    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2Fiab0x00%2FProxyRules%2Fmain%2FRewrite%2FPlugin2Rocket.srmodule",
-    "isDubious": false,
-    "fromMyRepo": true,
-    "_searchKeywords": "plugin2rocket 将可莉插件中心转换给小火箭使用; 插件中心 https://hub.kelee.one ; 此版集成script-hub，若有侵权可联系我们立马删除 iab0x00 proxyrules"
+    "_searchKeywords": "小红书 2026-10-08 16:38:39 lowertop shadowrocket-first"
   },
   {
     "name": "ScriptHub.Rocket",
