@@ -74,7 +74,7 @@
   {
     "name": "🅳🅸🆂🅲🅾🆁🅳 Discord 翻译",
     "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/Discord.sgmodule",
-    "description": "调用 Google 翻译为 Discord 历史消息生成双语对照，静默追加译文；支持自定义翻译条目数量与目标语言；支持浏览历史消息及上滑加载。新消息由于走 WebSocket 实时流式长连接，可能需通过重新进入频道触发刷新",
+    "description": "调用 Google 翻译为 Discord 历史消息生成双语对照，支持自定义翻译条目数量、目标语言及对应旗帜；新消息可能需重新进入频道触发刷新",
     "author": {
       "name": "LOWERTOP",
       "url": "https://github.com/LOWERTOP",
@@ -87,7 +87,7 @@
     "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FLOWERTOP%2FShadowrocket-First%2Fmain%2FDiscord.sgmodule",
     "isDubious": false,
     "fromMyRepo": true,
-    "_searchKeywords": "🅳🅸🆂🅲🅾🆁🅳 discord 翻译 调用 google 翻译为 discord 历史消息生成双语对照，静默追加译文；支持自定义翻译条目数量与目标语言；支持浏览历史消息及上滑加载。新消息由于走 websocket 实时流式长连接，可能需通过重新进入频道触发刷新 lowertop shadowrocket-first"
+    "_searchKeywords": "🅳🅸🆂🅲🅾🆁🅳 discord 翻译 调用 google 翻译为 discord 历史消息生成双语对照，支持自定义翻译条目数量、目标语言及对应旗帜；新消息可能需重新进入频道触发刷新 lowertop shadowrocket-first"
   },
   {
     "name": "🆃🅾🅿🅼🅾🅳🆂 Talkatone",
