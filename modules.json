@@ -7236,6 +7236,24 @@
     "_searchKeywords": "taptap - taptap taptap - 发现好游戏 zirawell r-store"
   },
   {
+    "name": "Thai Airwaus - TAIR",
+    "rawURL": "https://raw.githubusercontent.com/zirawell/R-Store/main/Rule/Surge/Adblock/App/T/ThaiAirways/tair.sgmodule",
+    "description": "Thai Airways",
+    "author": {
+      "name": "zirawell",
+      "url": "https://github.com/zirawell",
+      "username": "zirawell"
+    },
+    "authorAvatar": "https://github.com/zirawell.png?size=64",
+    "icon": "https://raw.githubusercontent.com/zirawell/R-Store/main/Res/Icon/App/tair.png",
+    "sourceName": "R-Store",
+    "sourceURL": "https://github.com/zirawell/R-Store",
+    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2Fzirawell%2FR-Store%2Fmain%2FRule%2FSurge%2FAdblock%2FApp%2FT%2FThaiAirways%2Ftair.sgmodule",
+    "isDubious": false,
+    "fromMyRepo": false,
+    "_searchKeywords": "thai airwaus - tair thai airways zirawell r-store"
+  },
+  {
     "name": "TopWidgets+ - TOPWIDGETS+",
     "rawURL": "https://raw.githubusercontent.com/zirawell/R-Store/main/Rule/Surge/Adblock/App/T/TopWidgets+/topwidgets+.sgmodule",
     "description": "Top Widgets⁺ - 万能小组件手机桌面主题美化工具",
