@@ -198,6 +198,24 @@
     "_searchKeywords": "🆃🅾🅿🅼🅾🅳🆂 talkatone talkatone 日常使用模块，需进入参数编辑详细设置 lowertop shadowrocket-first"
   },
   {
+    "name": "🅴🅼🅱🆈🅺🅸🆃 Emby模块",
+    "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/EmbyProxy.module",
+    "description": "编辑参数以设置分流策略",
+    "author": {
+      "name": "LOWERTOP",
+      "url": "https://github.com/LOWERTOP",
+      "username": "LOWERTOP"
+    },
+    "authorAvatar": "https://github.com/LOWERTOP.png?size=64",
+    "icon": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Emby.png",
+    "sourceName": "Shadowrocket-First",
+    "sourceURL": "https://github.com/LOWERTOP/Shadowrocket-First",
+    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FLOWERTOP%2FShadowrocket-First%2Fmain%2FEmbyProxy.module",
+    "isDubious": false,
+    "fromMyRepo": true,
+    "_searchKeywords": "🅴🅼🅱🆈🅺🅸🆃 emby模块 编辑参数以设置分流策略 lowertop shadowrocket-first"
+  },
+  {
     "name": "🆆🅸🅵🅸🆅🅾🅲 HK Call",
     "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/WiFiCallingHK.sgmodule",
     "description": "香港 SIM 卡 Wi-Fi Calling 配置规则，本规则适用于 CSL、CMHK、3 HK 的香港 SIM 卡的 Wi-Fi Calling 功能，分流节点须是香港节点",
