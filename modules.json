@@ -144,6 +144,24 @@
     "_searchKeywords": "🅲🅰🅳🆅🅸🅴🆆 浩辰cad看图王 模块为自用，仅包含规则不包含重写，不承诺完全去除相应服务的广告 lowertop shadowrocket-first"
   },
   {
+    "name": "🆀🅸🅽🅶🅰🅿🅿 Qing 净化增强",
+    "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/QingApp.sgmodule",
+    "description": "移除开屏广告、阻断火山引擎与 MobTech 隐私追踪、禁用 HTTPDNS；可在编辑参数页面启用本地解锁真实视界、隐身消息配额满载、动态媒体下载解锁及强制透视附近的人隐藏活跃时间等",
+    "author": {
+      "name": "LOWERTOP",
+      "url": "https://github.com/LOWERTOP",
+      "username": "LOWERTOP"
+    },
+    "authorAvatar": "https://github.com/LOWERTOP.png?size=64",
+    "icon": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/img/Qing.png",
+    "sourceName": "Shadowrocket-First",
+    "sourceURL": "https://github.com/LOWERTOP/Shadowrocket-First",
+    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FLOWERTOP%2FShadowrocket-First%2Fmain%2FQingApp.sgmodule",
+    "isDubious": false,
+    "fromMyRepo": true,
+    "_searchKeywords": "🆀🅸🅽🅶🅰🅿🅿 qing 净化增强 移除开屏广告、阻断火山引擎与 mobtech 隐私追踪、禁用 httpdns；可在编辑参数页面启用本地解锁真实视界、隐身消息配额满载、动态媒体下载解锁及强制透视附近的人隐藏活跃时间等 lowertop shadowrocket-first"
+  },
+  {
     "name": "🅲🅼🅲🅲🅸🆃🆅 移动直播解析",
     "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/CMCCiTV.sgmodule",
     "description": "有参数编辑功能。中国移动iTV平台中的部分域名在非移动网络下会被解析到CF的DNS服务IP上，导致无法访问，本模块根据PIXMAN大佬Coding自制DNS的解决方案所制作，应该可以解决这个问题",
