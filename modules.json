@@ -146,7 +146,7 @@
   {
     "name": "🆀🅸🅽🅶🅰🅿🅿 Qing 净化增强",
     "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/QingApp.sgmodule",
-    "description": "移除开屏广告、阻断火山引擎与 MobTech 隐私追踪、禁用 HTTPDNS；可在编辑参数页面启用本地解锁真实视界、隐身消息配额满载、动态媒体下载解锁、强制透视附近的人隐身活跃状态及实验性测试增加地图位置切换限制次数",
+    "description": "移除开屏广告、阻断火山引擎与 MobTech 隐私追踪、禁用 HTTPDNS。支持在编辑参数页面启用本地解锁真实视界、隐身消息配额满载、动态媒体下载解锁、强制透视附近的人隐身活跃状态及实验性测试增加地图位置切换限制次数",
     "author": {
       "name": "LOWERTOP",
       "url": "https://github.com/LOWERTOP",
@@ -159,7 +159,7 @@
     "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FLOWERTOP%2FShadowrocket-First%2Fmain%2FQingApp.sgmodule",
     "isDubious": false,
     "fromMyRepo": true,
-    "_searchKeywords": "🆀🅸🅽🅶🅰🅿🅿 qing 净化增强 移除开屏广告、阻断火山引擎与 mobtech 隐私追踪、禁用 httpdns；可在编辑参数页面启用本地解锁真实视界、隐身消息配额满载、动态媒体下载解锁、强制透视附近的人隐身活跃状态及实验性测试增加地图位置切换限制次数 lowertop shadowrocket-first"
+    "_searchKeywords": "🆀🅸🅽🅶🅰🅿🅿 qing 净化增强 移除开屏广告、阻断火山引擎与 mobtech 隐私追踪、禁用 httpdns。支持在编辑参数页面启用本地解锁真实视界、隐身消息配额满载、动态媒体下载解锁、强制透视附近的人隐身活跃状态及实验性测试增加地图位置切换限制次数 lowertop shadowrocket-first"
   },
   {
     "name": "🅲🅼🅲🅲🅸🆃🆅 移动直播解析",
