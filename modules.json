@@ -108,6 +108,24 @@
     "_searchKeywords": "🅲🅻🅴🅰🅽🅴🆁 红果短剧、包子漫画网页、小蚁摄像机、德施曼、pinterest 等去广告。模块仅为自用，不承诺完全去除相应服务的广告 lowertop shadowrocket-first"
   },
   {
+    "name": "🆃🅴🅻🅳🅰🅿🅿 特来电增强",
+    "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/Teld.sgmodule",
+    "description": "阻断开屏广告聚合与各家广告 SDK，屏蔽 App 广告位接口，可选屏蔽福利中心推广位与统计埋点。支持在编辑参数页面开启「记录签到请求」与「自动签到」(实验性，需开启签到记录开关并在 App 内手动签到一次)",
+    "author": {
+      "name": "LOWERTOP",
+      "url": "https://github.com/LOWERTOP",
+      "username": "LOWERTOP"
+    },
+    "authorAvatar": "https://github.com/LOWERTOP.png?size=64",
+    "icon": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/img/Teld.png",
+    "sourceName": "Shadowrocket-First",
+    "sourceURL": "https://github.com/LOWERTOP/Shadowrocket-First",
+    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FLOWERTOP%2FShadowrocket-First%2Fmain%2FTeld.sgmodule",
+    "isDubious": false,
+    "fromMyRepo": true,
+    "_searchKeywords": "🆃🅴🅻🅳🅰🅿🅿 特来电增强 阻断开屏广告聚合与各家广告 sdk，屏蔽 app 广告位接口，可选屏蔽福利中心推广位与统计埋点。支持在编辑参数页面开启「记录签到请求」与「自动签到」(实验性，需开启签到记录开关并在 app 内手动签到一次) lowertop shadowrocket-first"
+  },
+  {
     "name": "🆁🅴🆂🅸🅽🅿🆁 米家3D打印增强",
     "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/Mi3D-Enhance.sgmodule",
     "description": "支持自定义隐藏底栏各个按钮、净化个人主页徽章装扮",
