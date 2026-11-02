@@ -2466,8 +2466,8 @@
     "_searchKeywords": "到梦空间 - 5idream 到梦空间 zirawell r-store"
   },
   {
-    "name": "动卡空间 - ECITIC",
-    "rawURL": "https://raw.githubusercontent.com/zirawell/R-Store/main/Rule/Surge/Adblock/App/D/%E5%8A%A8%E5%8D%A1%E7%A9%BA%E9%97%B4/ecitic.sgmodule",
+    "name": "动卡空间 - ECITICCC",
+    "rawURL": "https://raw.githubusercontent.com/zirawell/R-Store/main/Rule/Surge/Adblock/App/D/%E5%8A%A8%E5%8D%A1%E7%A9%BA%E9%97%B4/eciticcc.sgmodule",
     "description": "动卡空间-中信银行信用卡",
     "author": {
       "name": "zirawell",
@@ -2475,13 +2475,13 @@
       "username": "zirawell"
     },
     "authorAvatar": "https://github.com/zirawell.png?size=64",
-    "icon": "https://raw.githubusercontent.com/zirawell/R-Store/main/Res/Icon/App/ecitic.png",
+    "icon": "https://raw.githubusercontent.com/zirawell/R-Store/main/Res/Icon/App/eciticcc.png",
     "sourceName": "R-Store",
     "sourceURL": "https://github.com/zirawell/R-Store",
-    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2Fzirawell%2FR-Store%2Fmain%2FRule%2FSurge%2FAdblock%2FApp%2FD%2F%25E5%258A%25A8%25E5%258D%25A1%25E7%25A9%25BA%25E9%2597%25B4%2Fecitic.sgmodule",
+    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2Fzirawell%2FR-Store%2Fmain%2FRule%2FSurge%2FAdblock%2FApp%2FD%2F%25E5%258A%25A8%25E5%258D%25A1%25E7%25A9%25BA%25E9%2597%25B4%2Feciticcc.sgmodule",
     "isDubious": false,
     "fromMyRepo": false,
-    "_searchKeywords": "动卡空间 - ecitic 动卡空间-中信银行信用卡 zirawell r-store"
+    "_searchKeywords": "动卡空间 - eciticcc 动卡空间-中信银行信用卡 zirawell r-store"
   },
   {
     "name": "叮咚买菜 - DDXQ",
@@ -9862,6 +9862,24 @@
     "isDubious": false,
     "fromMyRepo": false,
     "_searchKeywords": "zepplife(原小米运动) - mifit zepp life（原小米运动) zirawell r-store"
+  },
+  {
+    "name": "中信银行 - ECITIC",
+    "rawURL": "https://raw.githubusercontent.com/zirawell/R-Store/main/Rule/Surge/Adblock/App/Z/%E4%B8%AD%E4%BF%A1%E9%93%B6%E8%A1%8C/ecitic.sgmodule",
+    "description": "中信银行",
+    "author": {
+      "name": "zirawell",
+      "url": "https://github.com/zirawell",
+      "username": "zirawell"
+    },
+    "authorAvatar": "https://github.com/zirawell.png?size=64",
+    "icon": "https://raw.githubusercontent.com/zirawell/R-Store/main/Res/Icon/App/ecitic.png",
+    "sourceName": "R-Store",
+    "sourceURL": "https://github.com/zirawell/R-Store",
+    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2Fzirawell%2FR-Store%2Fmain%2FRule%2FSurge%2FAdblock%2FApp%2FZ%2F%25E4%25B8%25AD%25E4%25BF%25A1%25E9%2593%25B6%25E8%25A1%258C%2Fecitic.sgmodule",
+    "isDubious": false,
+    "fromMyRepo": false,
+    "_searchKeywords": "中信银行 - ecitic 中信银行 zirawell r-store"
   },
   {
     "name": "中关村在线 - ZOL",
