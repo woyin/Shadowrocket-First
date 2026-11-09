@@ -108,6 +108,24 @@
     "_searchKeywords": "🅲🅻🅴🅰🅽🅴🆁 红果短剧、包子漫画网页、小蚁摄像机、德施曼、pinterest 等去广告。模块仅为自用，不承诺完全去除相应服务的广告 lowertop shadowrocket-first"
   },
   {
+    "name": "🅲🆃🆁🅸🅿🅰🅳 携程去广告",
+    "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/CtripAdBlock.sgmodule",
+    "description": "过滤携程 App 的开屏广告、首页弹窗和信息流广告，并可拦截广告埋点等。支持编辑参数，开屏、弹窗、信息流等去广告功能均可通过参数独立开关，默认全部开启",
+    "author": {
+      "name": "LOWERTOP",
+      "url": "https://github.com/LOWERTOP",
+      "username": "LOWERTOP"
+    },
+    "authorAvatar": "https://github.com/LOWERTOP.png?size=64",
+    "icon": "https://raw.githubusercontent.com/zirawell/R-Store/main/Res/Icon/App/ctrip.png",
+    "sourceName": "Shadowrocket-First",
+    "sourceURL": "https://github.com/LOWERTOP/Shadowrocket-First",
+    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FLOWERTOP%2FShadowrocket-First%2Fmain%2FCtripAdBlock.sgmodule",
+    "isDubious": false,
+    "fromMyRepo": true,
+    "_searchKeywords": "🅲🆃🆁🅸🅿🅰🅳 携程去广告 过滤携程 app 的开屏广告、首页弹窗和信息流广告，并可拦截广告埋点等。支持编辑参数，开屏、弹窗、信息流等去广告功能均可通过参数独立开关，默认全部开启 lowertop shadowrocket-first"
+  },
+  {
     "name": "🆃🅴🅻🅳🅰🅿🅿 特来电增强",
     "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/Teld.sgmodule",
     "description": "阻断开屏广告聚合与各家广告 SDK，屏蔽 App 广告位接口，可选屏蔽福利中心推广位与统计埋点，支持编辑参数",
