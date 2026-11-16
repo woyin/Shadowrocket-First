@@ -720,6 +720,24 @@
     "_searchKeywords": "京东比价 京东app历史价格（商品详情页面触发）表格 githubdulong script"
   },
   {
+    "name": "Spotify Premium",
+    "rawURL": "https://raw.githubusercontent.com/Reukix/ukix/main/Script/Spotify.sgmodule",
+    "description": "会员配置、首页与播放页去广告，集成歌词补全和双语翻译",
+    "author": {
+      "name": "Reukix",
+      "url": "https://github.com/Reukix",
+      "username": "Reukix"
+    },
+    "authorAvatar": "https://github.com/Reukix.png?size=64",
+    "icon": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Spotify_01.png",
+    "sourceName": "ukix",
+    "sourceURL": "https://github.com/Reukix/ukix",
+    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FReukix%2Fukix%2Fmain%2FScript%2FSpotify.sgmodule",
+    "isDubious": false,
+    "fromMyRepo": true,
+    "_searchKeywords": "spotify premium 会员配置、首页与播放页去广告，集成歌词补全和双语翻译 reukix ukix"
+  },
+  {
     "name": "Spotify",
     "rawURL": "https://raw.githubusercontent.com/001ProMax/Surge/main/Module/AD/Spotify.sgmodule",
     "description": "AD",
@@ -754,24 +772,6 @@
     "isDubious": false,
     "fromMyRepo": true,
     "_searchKeywords": "spotify(>=ios15) 2025.06.27 部分解锁premium,音质不能设置为超高(建议登录后再打开脚本,重启app等待脚本生效) app2smile rules"
-  },
-  {
-    "name": "Spotify Premium",
-    "rawURL": "https://raw.githubusercontent.com/Reukix/ukix/main/Script/Spotify.sgmodule",
-    "description": "会员配置、首页与播放页去广告，集成歌词补全和双语翻译",
-    "author": {
-      "name": "Reukix",
-      "url": "https://github.com/Reukix",
-      "username": "Reukix"
-    },
-    "authorAvatar": "https://github.com/Reukix.png?size=64",
-    "icon": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Spotify_01.png",
-    "sourceName": "ukix",
-    "sourceURL": "https://github.com/Reukix/ukix",
-    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FReukix%2Fukix%2Fmain%2FScript%2FSpotify.sgmodule",
-    "isDubious": false,
-    "fromMyRepo": true,
-    "_searchKeywords": "spotify premium 会员配置、首页与播放页去广告，集成歌词补全和双语翻译 reukix ukix"
   },
   {
     "name": "机场流量查询",
@@ -848,7 +848,7 @@
   {
     "name": "小红书",
     "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/PR/XiangwanGuan/%E5%B0%8F%E7%BA%A2%E4%B9%A6.sgmodule",
-    "description": "2026-10-20 15:05:38",
+    "description": "2026-11-16 19:06:35",
     "author": {
       "name": "LOWERTOP",
       "url": "https://github.com/LOWERTOP",
@@ -861,7 +861,7 @@
     "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FLOWERTOP%2FShadowrocket-First%2Fmain%2FPR%2FXiangwanGuan%2F%25E5%25B0%258F%25E7%25BA%25A2%25E4%25B9%25A6.sgmodule",
     "isDubious": false,
     "fromMyRepo": true,
-    "_searchKeywords": "小红书 2026-10-20 15:05:38 lowertop shadowrocket-first"
+    "_searchKeywords": "小红书 2026-11-16 19:06:35 lowertop shadowrocket-first"
   },
   {
     "name": "ScriptHub.Rocket",
