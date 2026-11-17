@@ -486,6 +486,42 @@
     "_searchKeywords": "🅳🅴🆅🆃🅾🅾🅻 配置调试工具，以编辑参数的方式测试隐式参数及各项规则。新手用户不建议使用 lowertop shadowrocket-first"
   },
   {
+    "name": "🆂🅿🅾🆃🅸🅵🆈 声破天解锁",
+    "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/Spotify.sgmodule",
+    "description": "会员配置、首页与播放页去广告，集成歌词补全和双语翻译。支持编辑参数，可以调整歌词部分选项，增加百度翻译开放平台服务以增强翻译成功率。脚本来源：Reukix",
+    "author": {
+      "name": "LOWERTOP",
+      "url": "https://github.com/LOWERTOP",
+      "username": "LOWERTOP"
+    },
+    "authorAvatar": "https://github.com/LOWERTOP.png?size=64",
+    "icon": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Spotify_01.png",
+    "sourceName": "Shadowrocket-First",
+    "sourceURL": "https://github.com/LOWERTOP/Shadowrocket-First",
+    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FLOWERTOP%2FShadowrocket-First%2Fmain%2FSpotify.sgmodule",
+    "isDubious": false,
+    "fromMyRepo": true,
+    "_searchKeywords": "🆂🅿🅾🆃🅸🅵🆈 声破天解锁 会员配置、首页与播放页去广告，集成歌词补全和双语翻译。支持编辑参数，可以调整歌词部分选项，增加百度翻译开放平台服务以增强翻译成功率。脚本来源：reukix lowertop shadowrocket-first"
+  },
+  {
+    "name": "Spotify Premium",
+    "rawURL": "https://raw.githubusercontent.com/Reukix/ukix/main/Script/Spotify.sgmodule",
+    "description": "会员配置、首页与播放页去广告，集成歌词补全和双语翻译",
+    "author": {
+      "name": "Reukix",
+      "url": "https://github.com/Reukix",
+      "username": "Reukix"
+    },
+    "authorAvatar": "https://github.com/Reukix.png?size=64",
+    "icon": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Spotify_01.png",
+    "sourceName": "ukix",
+    "sourceURL": "https://github.com/Reukix/ukix",
+    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FReukix%2Fukix%2Fmain%2FScript%2FSpotify.sgmodule",
+    "isDubious": false,
+    "fromMyRepo": true,
+    "_searchKeywords": "spotify premium 会员配置、首页与播放页去广告，集成歌词补全和双语翻译 reukix ukix"
+  },
+  {
     "name": "YouTubeNoAds",
     "rawURL": "https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/YouTubeNoAd.sgmodule",
     "description": "YouTube Enhance & AdsBlock",
@@ -718,60 +754,6 @@
     "isDubious": false,
     "fromMyRepo": true,
     "_searchKeywords": "京东比价 京东app历史价格（商品详情页面触发）表格 githubdulong script"
-  },
-  {
-    "name": "Spotify Premium",
-    "rawURL": "https://raw.githubusercontent.com/Reukix/ukix/main/Script/Spotify.sgmodule",
-    "description": "会员配置、首页与播放页去广告，集成歌词补全和双语翻译",
-    "author": {
-      "name": "Reukix",
-      "url": "https://github.com/Reukix",
-      "username": "Reukix"
-    },
-    "authorAvatar": "https://github.com/Reukix.png?size=64",
-    "icon": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Spotify_01.png",
-    "sourceName": "ukix",
-    "sourceURL": "https://github.com/Reukix/ukix",
-    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FReukix%2Fukix%2Fmain%2FScript%2FSpotify.sgmodule",
-    "isDubious": false,
-    "fromMyRepo": true,
-    "_searchKeywords": "spotify premium 会员配置、首页与播放页去广告，集成歌词补全和双语翻译 reukix ukix"
-  },
-  {
-    "name": "Spotify",
-    "rawURL": "https://raw.githubusercontent.com/001ProMax/Surge/main/Module/AD/Spotify.sgmodule",
-    "description": "AD",
-    "author": {
-      "name": "001ProMax",
-      "url": "https://github.com/001ProMax",
-      "username": "001ProMax"
-    },
-    "authorAvatar": "https://github.com/001ProMax.png?size=64",
-    "icon": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Spotify_01.png",
-    "sourceName": "Surge",
-    "sourceURL": "https://github.com/001ProMax/Surge",
-    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2F001ProMax%2FSurge%2Fmain%2FModule%2FAD%2FSpotify.sgmodule",
-    "isDubious": false,
-    "fromMyRepo": true,
-    "_searchKeywords": "spotify ad 001promax surge"
-  },
-  {
-    "name": "Spotify(>=iOS15)",
-    "rawURL": "https://raw.githubusercontent.com/app2smile/rules/master/module/spotify.module",
-    "description": "2025.06.27 部分解锁premium,音质不能设置为超高(建议登录后再打开脚本,重启app等待脚本生效)",
-    "author": {
-      "name": "app2smile",
-      "url": "https://github.com/app2smile",
-      "username": "app2smile"
-    },
-    "authorAvatar": "https://github.com/app2smile.png?size=64",
-    "icon": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Spotify_01.png",
-    "sourceName": "rules",
-    "sourceURL": "https://github.com/app2smile/rules",
-    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2Fapp2smile%2Frules%2Fmaster%2Fmodule%2Fspotify.module",
-    "isDubious": false,
-    "fromMyRepo": true,
-    "_searchKeywords": "spotify(>=ios15) 2025.06.27 部分解锁premium,音质不能设置为超高(建议登录后再打开脚本,重启app等待脚本生效) app2smile rules"
   },
   {
     "name": "机场流量查询",
