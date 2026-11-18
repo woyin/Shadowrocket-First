@@ -434,7 +434,7 @@
   {
     "name": "🅲🅴🆁🆃🅷🆄🅱 证书模块",
     "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/CA.sgmodule",
-    "description": "需要以编辑参数的方式启用并填写完整",
+    "description": "启用解密后正确使用证书模块可以保证在切换配置时无需重复执行解密操作。需要以编辑参数的方式启用并填写完整",
     "author": {
       "name": "LOWERTOP",
       "url": "https://github.com/LOWERTOP",
@@ -447,7 +447,7 @@
     "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FLOWERTOP%2FShadowrocket-First%2Fmain%2FCA.sgmodule",
     "isDubious": false,
     "fromMyRepo": true,
-    "_searchKeywords": "🅲🅴🆁🆃🅷🆄🅱 证书模块 需要以编辑参数的方式启用并填写完整 lowertop shadowrocket-first"
+    "_searchKeywords": "🅲🅴🆁🆃🅷🆄🅱 证书模块 启用解密后正确使用证书模块可以保证在切换配置时无需重复执行解密操作。需要以编辑参数的方式启用并填写完整 lowertop shadowrocket-first"
   },
   {
     "name": "🅼🅸🆃🅼🅾🅵🅵 排除解密模块",
@@ -844,6 +844,132 @@
     "isDubious": false,
     "fromMyRepo": true,
     "_searchKeywords": "小红书 2026-11-16 19:06:35 lowertop shadowrocket-first"
+  },
+  {
+    "name": "米家去广告",
+    "rawURL": "https://raw.githubusercontent.com/Reukix/ukix/refs/heads/main/Script/MiHome.sgmodule",
+    "description": "移除米家开屏、我的页面轮播推广及底栏活动图标",
+    "author": {
+      "name": "Reukix",
+      "url": "https://github.com/Reukix",
+      "username": "Reukix"
+    },
+    "authorAvatar": "https://github.com/Reukix.png?size=64",
+    "icon": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/xiaomi.png",
+    "sourceName": "ukix",
+    "sourceURL": "https://github.com/Reukix/ukix",
+    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FReukix%2Fukix%2Frefs%2Fheads%2Fmain%2FScript%2FMiHome.sgmodule",
+    "isDubious": false,
+    "fromMyRepo": true,
+    "_searchKeywords": "米家去广告 移除米家开屏、我的页面轮播推广及底栏活动图标 reukix ukix"
+  },
+  {
+    "name": "闲鱼去广告",
+    "rawURL": "https://raw.githubusercontent.com/Reukix/ukix/refs/heads/main/Script/FleaMarket.sgmodule",
+    "description": "移除闲鱼广告",
+    "author": {
+      "name": "Reukix",
+      "url": "https://github.com/Reukix",
+      "username": "Reukix"
+    },
+    "authorAvatar": "https://github.com/Reukix.png?size=64",
+    "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/闲鱼.png",
+    "sourceName": "ukix",
+    "sourceURL": "https://github.com/Reukix/ukix",
+    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FReukix%2Fukix%2Frefs%2Fheads%2Fmain%2FScript%2FFleaMarket.sgmodule",
+    "isDubious": false,
+    "fromMyRepo": true,
+    "_searchKeywords": "闲鱼去广告 移除闲鱼广告 reukix ukix"
+  },
+  {
+    "name": "京东去广告",
+    "rawURL": "https://raw.githubusercontent.com/Reukix/ukix/refs/heads/main/Script/JD.sgmodule",
+    "description": "兼容 URL 参数与 POST 路由、明文和 base64 响应，过滤开屏配置和推广楼层；正常业务响应原样放行。",
+    "author": {
+      "name": "Reukix",
+      "url": "https://github.com/Reukix",
+      "username": "Reukix"
+    },
+    "authorAvatar": "https://github.com/Reukix.png?size=64",
+    "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/京东.png",
+    "sourceName": "ukix",
+    "sourceURL": "https://github.com/Reukix/ukix",
+    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FReukix%2Fukix%2Frefs%2Fheads%2Fmain%2FScript%2FJD.sgmodule",
+    "isDubious": false,
+    "fromMyRepo": true,
+    "_searchKeywords": "京东去广告 兼容 url 参数与 post 路由、明文和 base64 响应，过滤开屏配置和推广楼层；正常业务响应原样放行。 reukix ukix"
+  },
+  {
+    "name": "拼多多去广告",
+    "rawURL": "https://raw.githubusercontent.com/Reukix/ukix/refs/heads/main/Script/Pinduoduo.sgmodule",
+    "description": "移除开屏广告。",
+    "author": {
+      "name": "Reukix",
+      "url": "https://github.com/Reukix",
+      "username": "Reukix"
+    },
+    "authorAvatar": "https://github.com/Reukix.png?size=64",
+    "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/拼多多.png",
+    "sourceName": "ukix",
+    "sourceURL": "https://github.com/Reukix/ukix",
+    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FReukix%2Fukix%2Frefs%2Fheads%2Fmain%2FScript%2FPinduoduo.sgmodule",
+    "isDubious": false,
+    "fromMyRepo": true,
+    "_searchKeywords": "拼多多去广告 移除开屏广告。 reukix ukix"
+  },
+  {
+    "name": "淘宝去广告",
+    "rawURL": "https://raw.githubusercontent.com/Reukix/ukix/refs/heads/main/Script/Taobao.sgmodule",
+    "description": "过滤淘宝开屏广告",
+    "author": {
+      "name": "Reukix",
+      "url": "https://github.com/Reukix",
+      "username": "Reukix"
+    },
+    "authorAvatar": "https://github.com/Reukix.png?size=64",
+    "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/淘宝.png",
+    "sourceName": "ukix",
+    "sourceURL": "https://github.com/Reukix/ukix",
+    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FReukix%2Fukix%2Frefs%2Fheads%2Fmain%2FScript%2FTaobao.sgmodule",
+    "isDubious": false,
+    "fromMyRepo": true,
+    "_searchKeywords": "淘宝去广告 过滤淘宝开屏广告 reukix ukix"
+  },
+  {
+    "name": "美团去广告",
+    "rawURL": "https://raw.githubusercontent.com/Reukix/ukix/refs/heads/main/Script/meituan.sgmodule",
+    "description": "美团去广告, 告别烦人的垃圾广告",
+    "author": {
+      "name": "Reukix",
+      "url": "https://github.com/Reukix",
+      "username": "Reukix"
+    },
+    "authorAvatar": "https://github.com/Reukix.png?size=64",
+    "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/美团.png",
+    "sourceName": "ukix",
+    "sourceURL": "https://github.com/Reukix/ukix",
+    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FReukix%2Fukix%2Frefs%2Fheads%2Fmain%2FScript%2Fmeituan.sgmodule",
+    "isDubious": false,
+    "fromMyRepo": true,
+    "_searchKeywords": "美团去广告 美团去广告, 告别烦人的垃圾广告 reukix ukix"
+  },
+  {
+    "name": "小红书去广告",
+    "rawURL": "https://raw.githubusercontent.com/Reukix/ukix/refs/heads/main/Script/Xiaohongshu.sgmodule",
+    "description": "过滤信息流推广，移除图片及视频水印",
+    "author": {
+      "name": "Reukix",
+      "url": "https://github.com/Reukix",
+      "username": "Reukix"
+    },
+    "authorAvatar": "https://github.com/Reukix.png?size=64",
+    "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/小红书.png",
+    "sourceName": "ukix",
+    "sourceURL": "https://github.com/Reukix/ukix",
+    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FReukix%2Fukix%2Frefs%2Fheads%2Fmain%2FScript%2FXiaohongshu.sgmodule",
+    "isDubious": false,
+    "fromMyRepo": true,
+    "_searchKeywords": "小红书去广告 过滤信息流推广，移除图片及视频水印 reukix ukix"
   },
   {
     "name": "ScriptHub.Rocket",
