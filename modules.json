@@ -378,7 +378,7 @@
     "_searchKeywords": "skip proxy and real-ip lists 跳过部分应用的代理检测 mieqq mieqq"
   },
   {
-    "name": "🅶🅸🆃🅷🅴🅻🅿 资源加速",
+    "name": "🅶🅸🆃🅷🅴🅻🅿 资源重定向",
     "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/GitHubCDN.sgmodule",
     "description": "将 GitHub RAW 资源重定向至国内可用的镜像资源站，可一定程度上缓解节点问题导致的远程资源失效。编辑参数可自定义切换 CDN 节点",
     "author": {
@@ -393,7 +393,7 @@
     "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FLOWERTOP%2FShadowrocket-First%2Fmain%2FGitHubCDN.sgmodule",
     "isDubious": false,
     "fromMyRepo": true,
-    "_searchKeywords": "🅶🅸🆃🅷🅴🅻🅿 资源加速 将 github raw 资源重定向至国内可用的镜像资源站，可一定程度上缓解节点问题导致的远程资源失效。编辑参数可自定义切换 cdn 节点 lowertop shadowrocket-first"
+    "_searchKeywords": "🅶🅸🆃🅷🅴🅻🅿 资源重定向 将 github raw 资源重定向至国内可用的镜像资源站，可一定程度上缓解节点问题导致的远程资源失效。编辑参数可自定义切换 cdn 节点 lowertop shadowrocket-first"
   },
   {
     "name": "🅶🅸🆃🅷🅴🅻🅿 私库助手",
