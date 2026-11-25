@@ -25560,9 +25560,9 @@
     "_searchKeywords": "有兔阅读(米兔) 某些app要清除缓存或者重新安装拦截广告才会生效！ fmz200 wool_scripts"
   },
   {
-    "name": "YouTube",
+    "name": "Youtube (Music) Enhance",
     "rawURL": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Shadowrocket/module/split/partY/YouTube.srmodule",
-    "description": "某些APP要清除缓存或者重新安装拦截广告才会生效！",
+    "description": "适用于 Youtube & Youtube Music",
     "author": {
       "name": "fmz200",
       "url": "https://github.com/fmz200",
@@ -25575,7 +25575,7 @@
     "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2Ffmz200%2Fwool_scripts%2Fmain%2FShadowrocket%2Fmodule%2Fsplit%2FpartY%2FYouTube.srmodule",
     "isDubious": false,
     "fromMyRepo": false,
-    "_searchKeywords": "youtube 某些app要清除缓存或者重新安装拦截广告才会生效！ fmz200 wool_scripts"
+    "_searchKeywords": "youtube (music) enhance 适用于 youtube & youtube music fmz200 wool_scripts"
   },
   {
     "name": "悠洗APP",
